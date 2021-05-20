@@ -83,6 +83,7 @@ form {
   visibility: hidden;
 }
 .formHandler input {
+  appearence: none;
   display: block;
   font-weight: 600;
   width: 100%;
