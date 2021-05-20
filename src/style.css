@@ -95,7 +95,7 @@ form {
 }
 input::placeholder {
   font-weight: 600;
-  color: var(--neutral-color);
+  color: var(--footer-color);
 }
 input:focus {
   outline: 0;
